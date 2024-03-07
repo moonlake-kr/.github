@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=호수%20위의%20달&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=58&desc=인디게임%20|%20플랫포머%20|%20소규모팀개발&descSize=12&fontAlignY=38" />
+</div>
+
 ## 안녕하세요 👋
 항상 즐겁게 개발하는 인디게임 개발 팀 호수 위의 달 입니다 😙
 
