@@ -3,10 +3,8 @@
 </div>
 
 ## 안녕하세요 👋
-항상 즐겁게 개발하는 인디게임 개발 팀 호수 위의 달 입니다 😙
-
+<div align="left">
+ <img src="https://github.com/moonlake-kr/.github/blob/main/profile/teamlogo_transparent.png"/>
+</div>
 <br>
-
-## 무엇을 목표로 하나요 🧐
-1. 다양하고 새로우면서도 거부감/혐오감이 없는 소재를 발굴하여 다양한 타겟층에게 컨텐츠 제공하기
-2. 인디게임계의 건전하고 성숙한 문화를 만들어가기
+항상 즐겁게 개발하는 인디게임 개발 팀 호수 위의 달 입니다 😙
