@@ -5,14 +5,6 @@
 ## 안녕하세요 👋
 항상 즐겁게 개발하는 인디게임 개발 팀 호수 위의 달 입니다 😙
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 무엇을 목표로 하나요 🧐
+1. 다양하고 새로우면서도 거부감/혐오감이 없는 소재를 발굴하여 다양한 타겟층에게 컨텐츠 제공하기
+2. 인디게임계의 건전하고 성숙한 문화를 만들어가기
