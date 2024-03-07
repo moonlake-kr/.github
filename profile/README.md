@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=호수%20위의%20달&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=58&desc=Moon on the Lake&descSize=12&fontAlignY=38" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=호수%20위의%20달&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=58&desc=Moon%20on%20the%20Lake&descSize=12&fontAlignY=38" />
 </div>
 
 ## 안녕하세요 👋
